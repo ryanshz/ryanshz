@@ -12,10 +12,10 @@ coding for the sake of coding, or something like that
 
 [aptDisplay](https://github.com/ryanshz/aptDisplay) for my apartment
 
+[ryanshz.github.io](https://github.com/ryanshz/ryanshz.github.io) edits
+
 and other class projects
 
 ### planning on working on:
-
-[ryanshz.github.io](https://github.com/ryanshz/ryanshz.github.io) edits
 
 new [purgatory](https://github.com/ryanshz/purgatory) project
