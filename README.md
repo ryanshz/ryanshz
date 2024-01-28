@@ -1,16 +1,19 @@
-### Hi there 👋
+### about me
 
-<!--
-**ryanshz/ryanshz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th year CS major
 
-Here are some ideas to get you started:
+coding for the sake of coding, or something like that
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### working on:
+
+[dotfiles](https://github.com/ryanshz/dotfiles) for fedora desktop
+
+[aptDisplay](https://github.com/ryanshz/aptDisplay) for my apartment
+
+and other class projects
+
+### planning on working on:
+
+[ryanshz.github.io](https://github.com/ryanshz/ryanshz.github.io) edits or remake
+
+new [purgatory](https://github.com/ryanshz/purgatory) project
