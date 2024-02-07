@@ -8,7 +8,7 @@ coding for the sake of coding, or something like that
 
 ### working on:
 
-[dotfiles](https://github.com/ryanshz/dotfiles) for fedora desktop
+[dotfiles](https://github.com/ryanshz/dotfiles) for desktop/mac environments (fedora linux)
 
 [aptDisplay](https://github.com/ryanshz/aptDisplay) for my apartment
 
