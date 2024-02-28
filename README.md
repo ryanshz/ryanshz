@@ -10,9 +10,11 @@ coding for the sake of coding, or something like that
 
 [dotfiles](https://github.com/ryanshz/dotfiles) for desktop/mac environments (fedora linux)
 
-[aptDisplay](https://github.com/ryanshz/aptDisplay) for my apartment
+[aptDisplay](https://github.com/ryanshz/aptDisplay) for my apartment (express)
 
-[ryanshz.github.io](https://github.com/ryanshz/ryanshz.github.io) edits
+[ryanshz.github.io](https://github.com/ryanshz/ryanshz.github.io) edits (astro, tailwind)
+
+quickqollab capstone project (react, tailwind, flask, postgresql)
 
 and other class projects
 
