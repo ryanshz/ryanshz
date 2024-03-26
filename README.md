@@ -12,9 +12,9 @@ coding for the sake of coding, or something like that
 
 [aptDisplay](https://github.com/ryanshz/aptDisplay) for my apartment (express)
 
-[ryanshz.github.io](https://github.com/ryanshz/ryanshz.github.io) edits (astro, tailwind)
+severus slices MVC app (react, express, node.js, mongodb)
 
-quickqollab capstone project (react, tailwind, flask, postgresql)
+quickqollab capstone project (react, tailwind, flask, node.js, postgresql)
 
 and other class projects
 
