@@ -10,6 +10,6 @@ coding for the sake of coding, or something like that
 
 [dotfiles](https://github.com/ryanshz/dotfiles) for desktop/mac environments (fedora linux)
 
-linux server admin certification and a home server
+fool, my attempt at creating an operating system
 
-and other personal projects
+artemis, an ai-companion to help me work faster
