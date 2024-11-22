@@ -14,6 +14,4 @@ coding for the sake of coding, or something like that
 
 fool, my attempt at creating an operating system
 
-artemis, an ai-companion to help me work faster
-
-android dev with Java
+artemis, an android app i'm planning
