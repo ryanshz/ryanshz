@@ -1,6 +1,6 @@
 ### about me
 
-4th year CS major
+CS graduate
 
 coding for the sake of coding, or something like that
 
